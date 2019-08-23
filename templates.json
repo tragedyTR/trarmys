@@ -2,8 +2,44 @@
 
 "TrArmy": {
   "name": "TrArmy.png",
-  "x": 2507,  "y": -987,
+  "x": 2507, "y": -987,
   "width": 328, "height": 231
+}
+
+,"Alsancak": {
+  "name": "tr_alsancak.png",
+  "x": 71,  "y": -3814,
+  "width": 273, "height": 155
+}
+
+,"Discord": {
+  "name": "tr_discord.png",
+  "x": -4096,  "y": 3220,
+  "width": 522, "height": 75
+}
+
+,"Bayrak": {
+  "name": "tr_bayrak.png",
+  "x": -4096,  "y": 3295,
+  "width": 1307, "height": 801
+}
+
+,"Üst": {
+  "name": "tr_üst.png",
+  "x": -4096,  "y": 3067,
+  "width": 551, "height": 153
+}
+
+,"Operasyon": {
+  "name": "tr_operasyon.png",
+  "x": 1392,  "y": -4096,
+  "width": 607, "height": 281
+}
+
+,"FransaMerkezBayrak": {
+  "name": "fr_merkezbayrak.png",
+  "x": 921,  "y": -714,
+  "width": 283, "height": 204
 }
 
 }
